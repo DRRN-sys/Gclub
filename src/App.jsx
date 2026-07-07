@@ -625,7 +625,7 @@ function Store({ user, onLogout }) {
             <br />
             CUENTA
           </h1>
-          <p style={styles.heroSub}>Mira en vivo quién se lleva cada edición — y cuál va ganando.</p>
+          <p style={styles.heroSub}>session 1: — 001ranked</p>
           {loadError && <p style={{ ...styles.authError, marginTop: 12 }}>{loadError}</p>}
         </section>
 
