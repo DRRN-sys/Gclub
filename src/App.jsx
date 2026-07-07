@@ -621,7 +621,7 @@ function Store({ user, onLogout }) {
       <main style={styles.main}>
         <section style={styles.hero}>
           <h1 style={styles.heroTitle}>
-            ONLY.
+            ONLY
             <br />
             MONEY.
           </h1>
