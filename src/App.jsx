@@ -621,9 +621,9 @@ function Store({ user, onLogout }) {
       <main style={styles.main}>
         <section style={styles.hero}>
           <h1 style={styles.heroTitle}>
-            ONL Y
+            ONLY
             <br />
-            MONE Y.
+            MONEY.
           </h1>
           <p style={styles.heroSub}>SESSION 1</p>
           {loadError && <p style={{ ...styles.authError, marginTop: 12 }}>{loadError}</p>}
